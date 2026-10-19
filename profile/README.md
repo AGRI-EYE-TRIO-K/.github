@@ -39,14 +39,16 @@
 
 Explore the website, application gallery, and development story.
 
+## Project Preview
+
 ### 1. Home Page
-![AGRI-EYE TRIO K Home Page](docs/screenshots/homepage.png)
+![AGRI-EYE TRIO K Home Page](../docs/homepage.png)
 
 ### 2. Application Gallery
-![AGRI-EYE TRIO K Application Gallery](docs/screenshots/gallery.png)
+![AGRI-EYE TRIO K Application Gallery](../docs/gallery.png)
 
 ### 3. About the Project
-![AGRI-EYE TRIO K About Project](docs/screenshots/about-project.png)
+![AGRI-EYE TRIO K About Project](../docs/about-project.png)
 
 🌐 **Live Website:** https://agri-eye3k.pages.dev/
 
